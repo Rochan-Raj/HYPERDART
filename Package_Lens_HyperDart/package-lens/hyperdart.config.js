@@ -39,5 +39,5 @@ export default  {
 		// key-values added here will be added to the compInfo section of searchData
 	},
 	github: "",
-	demovideo: ""
+	demovideo: "https://youtu.be/anmm7QtbKcM"
 }
