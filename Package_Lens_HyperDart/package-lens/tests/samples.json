@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "component": "package-lens",
+      "query": "npm express",
+      "entities": [
+        {
+          "word": "express",
+          "sourceID": "express",
+          "collectionName": "NPM_PACKAGES",
+          "collectionType": "HD_PACKAGES"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "component": "package-lens",
+      "query": "compare express and fastify",
+      "entities": [
+        {
+          "word": "express",
+          "sourceID": "express",
+          "collectionName": "NPM_PACKAGES",
+          "collectionType": "HD_PACKAGES"
+        },
+        {
+          "word": "fastify",
+          "sourceID": "fastify",
+          "collectionName": "NPM_PACKAGES",
+          "collectionType": "HD_PACKAGES"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "component": "package-lens",
+      "query": "compare express, fastify, koa",
+      "entities": [
+        {
+          "word": "express",
+          "sourceID": "express",
+          "collectionName": "NPM_PACKAGES",
+          "collectionType": "HD_PACKAGES"
+        },
+        {
+          "word": "fastify",
+          "sourceID": "fastify",
+          "collectionName": "NPM_PACKAGES",
+          "collectionType": "HD_PACKAGES"
+        },
+        {
+          "word": "koa",
+          "sourceID": "koa",
+          "collectionName": "NPM_PACKAGES",
+          "collectionType": "HD_PACKAGES"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "component": "package-lens",
+      "query": "npm alternatives to moment",
+      "entities": [
+        {
+          "word": "moment",
+          "sourceID": "moment",
+          "collectionName": "NPM_PACKAGES",
+          "collectionType": "HD_PACKAGES"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "component": "package-lens",
+      "query": "npm @angular/core",
+      "entities": [
+        {
+          "word": "@angular/core",
+          "sourceID": "@angular/core",
+          "collectionName": "NPM_PACKAGES",
+          "collectionType": "HD_PACKAGES"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "component": "package-lens",
+      "query": "npm definitely-no-package-zz012345",
+      "entities": [
+        {
+          "word": "definitely-no-package-zz012345",
+          "sourceID": "definitely-no-package-zz012345",
+          "collectionName": "NPM_PACKAGES",
+          "collectionType": "HD_PACKAGES"
+        }
+      ]
+    }
+  ]
+]

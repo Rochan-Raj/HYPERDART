@@ -1,0 +1,14 @@
+[
+  {
+    "component": "package-lens",
+    "query": "npm express",
+    "entities": [
+      {
+        "word": "express",
+        "sourceID": "express",
+        "collectionName": "NPM_PACKAGES",
+        "collectionType": "HD_PACKAGES"
+      }
+    ]
+  }
+]
