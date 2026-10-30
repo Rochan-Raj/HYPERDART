@@ -1,4 +1,4 @@
-# HYPERDART
+# HYPERDART HACKATHON
 Package_Info
 # Package Lens — Setup and Run Guide
 
