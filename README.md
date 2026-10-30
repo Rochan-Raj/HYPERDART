@@ -131,6 +131,12 @@ npm run build
 ```
 
 These commands are not required every time you start the application. Publishing is not required for local use.
+## Demo Video
+
+
+https://github.com/user-attachments/assets/20d30553-4322-42f0-84cb-8604de7db1b2
+
+
 
 ## Troubleshooting
 
